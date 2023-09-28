@@ -45,7 +45,7 @@ ROI = [(3,1008),(686,274),(1069,279),(1573,1008)]
 
 # create empty list
 list = []
-
+ 
 while True:
 
     ret, frame = cap.read()
